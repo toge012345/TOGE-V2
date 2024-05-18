@@ -8,7 +8,7 @@
 
 
 
-<h1 align="center"> ♻️𝗧𝗢𝗚𝗘-𝗠𝗗-𝗟𝗜𝗧𝗘♻️ </h1> 
+<h1 align="center"> 𝗧𝗢𝗚𝗘-𝗠𝗗 </h1> 
 
  ### ℹ️ **ABOUT TOGE-V2**
  Introducing TOGE-V2, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
@@ -49,5 +49,5 @@
 - *I will only Assist You in Bot Deployment and Hosting, Not in Bot Development*
 - *If Someone Modify My Bot Or Try To Copy It I Will Instantly Give Legal Copy Right Strike And Ban That User Repo And Account*
 - *This Bot is For Fun and Educational Purpose, I will not Responsible If You Spam and And Got Banned*
-- ***Regards [Maher-Zubair](https://github.com/Maher-Zubair)***
+- ***Regards [•.¸♡ 𝐓𝐎𝐆𝐄 𝐈𝐍𝐔𝐌𝐀𝐊𝐈 ♡¸.•](https://github.com/toge012345)***
 ##

@@ -1,1 +1,1 @@
-# let bot = wasi md
+# let bot = toge-v2

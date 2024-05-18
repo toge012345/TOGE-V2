@@ -1,9 +1,9 @@
 {
-  "name":"UNIQUE MD",
-  "description":"UNIQUE MULTIDIVICE CREATED BY WASI",
-  "keywords":["WASI","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/924f379c95ebba81c0a3b.jpg",
-  "repository":"https://github.com/Itxxwasi/UNIQUE-MD",
+  "name":"TOGE-V2",
+  "description":"TOGE MULTIDIVICE CREATED BY TOGE INUMAKI",
+  "keywords":["TOGE","node","baileys","whatsapp"],
+  "logo":"https://telegra.ph/file/42f227580716b9d03ecab.jpg",
+  "repository":"https://github.com/toge012345/TOGE-V2",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝗨𝗡𝗜𝗤𝗨𝗘 𝗠𝗗 𝗕𝗢𝗧",
+      "value":"𝕿𝕺𝕲𝕰-𝕸𝕯",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
-      "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/93b032886687a4af7a25b.jpg",
+      "description":"add one or many link for your bot menu",
+      "value":"https://telegra.ph/file/ee1d72d6e59b22b99216e.jpg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "MR WASI"
+    "value": "•.¸♡ 𝐓𝐎𝐆𝐄 𝐈𝐍𝐔𝐌𝐀𝐊𝐈 ♡¸.•"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "923192173398"
+    "value": "13038480418"
   },
     "WARN_COUNT":
   {

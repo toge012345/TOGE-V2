@@ -1,11 +1,11 @@
 {
-  "name": "Itxxwasi",
+  "name": "toge012345",
   "version": "2.0.0",
   "description": "",
-  "main": "wasi.js",
+  "main": "toge.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "s": "node wasi.js",
+    "s": "node toge.js",
     "itxxwasi": "pm2 start wasi.js --attach --max-memory-restart 490M",
     "c": "tsc"
   },
@@ -17,7 +17,7 @@
     "unique-md",
     "wasi"
   ],
-  "author": "Itxxwasi",
+  "author": "toge012345",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",

@@ -9,8 +9,8 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/Itxxwasi/UNIQUE-MD.git  /root/Itxxwasi
-WORKDIR /root/Itxxwasi/
+RUN git clone https://github.com/toge012345/TOGE-V2.git  /root/toge012345
+WORKDIR /root/toge012345/
 
 
 COPY package.json .
@@ -21,5 +21,5 @@ COPY . .
 
 EXPOSE 5000
 
-CMD ["node", "wasi.js"]
+CMD ["node", "toge.js"]
 

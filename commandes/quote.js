@@ -13,14 +13,14 @@ france({ nomCom: 'quote', categorie: 'Fun' }, async (dest, zk, commandeOptions) 
         .then((response) => response.json())
         .then(async (quote) => {
           repondre(`╔══════════════════════════╗
-║   UNIQUE-MD-BY-WASI-MD              ║
+║  TOGE-V2-WHA-BOT              ║
 ╚══════════════════════════╝
 
 🎬 Anime: ${quote.anime}
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-Powered by *UNIQUE-MD-BY-WASI-MD*`);
+Powered by *TOGE-V2*`);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);
@@ -33,14 +33,14 @@ Powered by *UNIQUE-MD-BY-WASI-MD*`);
         .then((response) => response.json())
         .then(async (quote) => {
           repondre(`╔══════════════════════════╗
-║   UNIQUE-MD-BY-WASI              ║
+║   TOGE-V2-WA-BOT              ║
 ╚══════════════════════════╝
 
 🎬 Anime: ${quote.anime}
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-Powered by UNIQUE-MD-BY-WASI);
+Powered by TOGE-V2-WA-BOT);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);

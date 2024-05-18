@@ -1,6 +1,6 @@
-const { france } = require('../framework/france');
+const { zokou } = require('../framework/zokou');
 
-france({ nomCom: 'quote', categorie: 'Fun' }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: 'quote', categorie: 'Fun' }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, verifGroupe, arg } = commandeOptions;
   if (!verifGroupe) {
     repondre('Commande réservée au groupe uniquement');
@@ -13,14 +13,14 @@ france({ nomCom: 'quote', categorie: 'Fun' }, async (dest, zk, commandeOptions) 
         .then((response) => response.json())
         .then(async (quote) => {
           repondre(`╔══════════════════════════╗
-║  TOGE-V2-WHA-BOT              ║
+║   Zokou-md               ║
 ╚══════════════════════════╝
 
 🎬 Anime: ${quote.anime}
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-Powered by *TOGE-V2*`);
+Powered by Zokou-MD`);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);
@@ -33,14 +33,14 @@ Powered by *TOGE-V2*`);
         .then((response) => response.json())
         .then(async (quote) => {
           repondre(`╔══════════════════════════╗
-║   TOGE-V2-WA-BOT              ║
+║   Zokou-md               ║
 ╚══════════════════════════╝
 
 🎬 Anime: ${quote.anime}
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-Powered by TOGE-V2-WA-BOT);
+Powered by Zokou-MD`);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);

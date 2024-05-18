@@ -6,16 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "s": "node toge.js",
-    "itxxwasi": "pm2 start wasi.js --attach --max-memory-restart 490M",
+    "toge012345": "pm2 start toge.js --attach --max-memory-restart 490M",
     "c": "tsc"
   },
   "keywords": [
-    "WASI",
+    "toge012345",
     "Baileys",
-    "wasi",
+    "toge",
     "whatsapp",
-    "unique-md",
-    "wasi"
+    "toge-v2",
+    "TOGE"
   ],
   "author": "toge012345",
   "license": "ISC",
